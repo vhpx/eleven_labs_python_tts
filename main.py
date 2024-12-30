@@ -23,8 +23,6 @@ def main(text: str):
 
     print(f"Audio saved to: {filepath}")
 
-    # Play audio on arduino
-
 
 if __name__ == "__main__":
     main("Hello world!")
